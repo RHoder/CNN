@@ -1,6 +1,6 @@
 # Setup
 - Before running cells, connect to runtime and upload "state_classification_dataset.zip" (provided in 
-  canvas) files to runtime files in google colab
+  canvas files) to runtime files in google colab
 - After this, simply run all cells in order
 
 # Set Device
